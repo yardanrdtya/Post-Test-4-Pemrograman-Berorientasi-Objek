@@ -99,11 +99,11 @@ Jika user tidak mengisi hari istirahat yang ingin ditambahkan, maka akan muncul 
 
 Opsi ini digunakan ketika user ingin melihat jadwal olahraga dan istirahat yang telah ditambahkan sebelumnya.
 
-<img width="767" height="265" alt="image" src="https://github.com/user-attachments/assets/72763d13-1716-4dce-928d-b25459b22721" />
+<img width="1029" height="267" alt="image" src="https://github.com/user-attachments/assets/0499c408-59bc-4c65-8707-4a6e19a03813" />
 
 Setelah operasi dijalankan maka program akan otomatis kembali ke menu utama.
 
-<img width="769" height="569" alt="image" src="https://github.com/user-attachments/assets/64859bad-ee27-4723-8a9f-ce60f13b5ded" />
+<img width="1033" height="570" alt="image" src="https://github.com/user-attachments/assets/be9228ab-32c8-4ca5-a2b7-db3f3871bcbe" />
 
 Jika user belum ada menambahkan jadwal olahraga di opsi tambah jadwal olahraga sebelumnya, maka akan muncul pesan seperti gambar dibawah dan program otomatis akan kembali ke menu utama.
 
@@ -113,7 +113,7 @@ Jika user belum ada menambahkan jadwal olahraga di opsi tambah jadwal olahraga s
 
 Opsi ini digunakan ketika user ingin melakukan perubahan pada jadwal olahraga, seperti hari, jenis olahraga, durasi, dan intensitas yang ingin diupdate sesuai keinginan user.
 
-<img width="753" height="411" alt="image" src="https://github.com/user-attachments/assets/9820e7d1-3886-48cc-b06b-e036ca32bda4" />
+<img width="1024" height="414" alt="image" src="https://github.com/user-attachments/assets/5b505ecd-a095-480f-aba6-2260f403b882" />
 
 Setelah operasi dijalankan maka program akan otomatis kembali ke menu utama.
 
@@ -121,7 +121,7 @@ Setelah operasi dijalankan maka program akan otomatis kembali ke menu utama.
 
 Jika jadwal olahraga telah berhasil diubah maka program otomatis akan meng-update jadwal olahraga yang sudah ada sebelumnya.
 
-<img width="760" height="259" alt="image" src="https://github.com/user-attachments/assets/0c7e668a-2c55-46b6-b533-31506a420f63" />
+<img width="1035" height="258" alt="image" src="https://github.com/user-attachments/assets/7b0088f6-d1cd-4100-adc2-68176a5c43a8" />
 
 Jika user menginputkan nomor jadwal yang tidak tersedia di daftar jadwal olahraga, maka akan muncul pesan seperti gambar dibawah dan program otomatis akan kembali ke menu utama.
 
@@ -139,7 +139,7 @@ Jika user tidak mengisi jenis, hari dan durasi olahraga yang ingin diupdate, mak
 
 Opsi ini digunakan ketika user ingin menghapus jadwal olahraga yang telah dibuat sebelumnya.
 
-<img width="764" height="312" alt="image" src="https://github.com/user-attachments/assets/b9b9ed3b-2e49-4bce-9bb4-8852d431d4ab" />
+<img width="1028" height="312" alt="image" src="https://github.com/user-attachments/assets/199794f0-787e-4952-a339-aa70e8b662cd" />
 
 Setelah operasi dijalankan maka program akan otomatis kembali ke menu utama.
 
@@ -147,7 +147,7 @@ Setelah operasi dijalankan maka program akan otomatis kembali ke menu utama.
 
 Jika jadwal olahraga telah berhasil dihapus maka program otomatis akan meng-update jadwal olahraga yang sudah ada sebelumnya.
 
-<img width="765" height="239" alt="image" src="https://github.com/user-attachments/assets/b8fcbb0c-c593-4dbc-8c62-6eb01a5cb561" />
+<img width="1039" height="238" alt="image" src="https://github.com/user-attachments/assets/9fd7e578-f91d-4007-9d9c-1e7f2a53dcb2" />
 
 Jika user menginputkan nomor jadwal yang tidak tersedia untuk dihapus di daftar jadwal olahraga, maka akan muncul pesan seperti gambar dibawah dan program otomatis akan kembali ke menu utama.
 
